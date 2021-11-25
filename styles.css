@@ -39,9 +39,6 @@ li a:hover{
     background-color: rgb(136, 127, 127);
     color:white;
 }
-main {
-    display:flex;
-}
 
 .bio {
     width:95%;
